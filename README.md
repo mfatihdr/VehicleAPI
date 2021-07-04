@@ -6,7 +6,7 @@ You need to create a table For database based cache with code below;<br/>
 
 (env) "python3 manage.py createcachetable"<br/>
 
-create database and save as below in settings.py;<br/>
+create a table and save as below in settings.py;<br/>
 
 DATABASES = {<br/>
     'default': {<br/>
